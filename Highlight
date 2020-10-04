@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head>
+<title>Highlighting text</title>
+<style>
+div
+{
+background-color:yellow;
+}
+</style>
+</head>
+<body>
+<div>"HTML & CSS is awesome"</div>
+</body>
+</html>
