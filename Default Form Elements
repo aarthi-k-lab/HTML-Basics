@@ -1,0 +1,19 @@
+<html>
+<head>Default Form Elements</head>
+<body>
+<form action="">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" 
+    name="fname" value="aarthi"><br><br>
+  <label for="lname">Last 
+    name:</label>
+  <input type="text" id="lname" name="lname" 
+    value="kannan"><br><br>
+  <select name="country" placeholder="India">
+  <option name="India" value="India">India</option>
+  <option name="India" value="Australia">Australia</option>
+  </select>
+  <input type="submit" value="Submit">
+</form>
+</body>
+</html>
