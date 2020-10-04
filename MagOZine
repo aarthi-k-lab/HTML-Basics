@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<title>Mag-O-Zine</title>
+</head>
+<body>
+<form action="submit">
+<h1>Yes I want to subscribe to Mag-O-Zine</h1>
+First Name <input type="text" name="fname" id="fname"/>
+Last Name <input type="text" name="lname" id="lname"/><br>
+Address <textarea name="address" rows="1" cols="5"></textarea><br>
+City <input type="text" name="city" id="city"/>
+State <input type="text" name="state" id="state"/>
+Zip <input type="text" name="Zip" id="Zip"/><br>
+Subscribe for <input type="checkbox" value="1 Years($19.95)"/>  <input type="checkbox" value="2 Years($35.00)"/><br>
+Send me more information about<br>
+<input type="checkbox" value="Computer Zine"/>Computer Zine<br>  
+<input type="checkbox" value="Fishing Zine"/>Fishing Zine<br> 
+<input type="checkbox" value="Cat O zine"/>Cat O zine<br>
+</form>
+</body>
+</html>
