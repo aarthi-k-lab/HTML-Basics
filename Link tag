@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<head>
+<title>Link Tag</title>
+</head>
+<body>
+<a href="https://google.com" target="_new">Google</a>
+</body>
+</html>
